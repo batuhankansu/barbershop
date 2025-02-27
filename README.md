@@ -73,9 +73,8 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Batuhan Kansu - batuhankansuu@gmail.com
 
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
 
 ## Acknowledgments
 
